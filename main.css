@@ -1,0 +1,6 @@
+table,tr,th,td,caption{
+    border: 1px solid hsl(0, 100%, 3%);
+    font-family: 'Courier New', Courier, monospace;
+    boarder border-collapse: collapse ;
+    padding: 0.5rem;
+    }
